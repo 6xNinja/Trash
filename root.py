@@ -1,3 +1,3 @@
 import os
 
-os.system("cat /etc/shadow > shadow1")
+os.system("cat /etc/shadow > shadow.txt")
